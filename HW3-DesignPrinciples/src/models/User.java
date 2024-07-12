@@ -1,6 +1,5 @@
+//Natdanai Pinaves 6510405482
 package models;
-
-import java.util.Map;
 
 public class User {
     private String name;

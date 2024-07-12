@@ -1,11 +1,12 @@
+//Natdanai Pinaves 6510405482
 package models;
 
 import services.AgeValidator;
 import services.EmailValidator;
 import services.NameValidator;
 import services.Validator;
-
 import java.util.Arrays;
+
 import java.util.List;
 
 public class Register {
