@@ -1,10 +1,10 @@
 //Natdanai Pinaves 6510405482
-package models;
+package src.models;
 
-import services.AgeValidator;
-import services.EmailValidator;
-import services.NameValidator;
-import services.Validator;
+import src.services.AgeValidator;
+import src.services.EmailValidator;
+import src.services.NameValidator;
+import src.services.Validator;
 import java.util.Arrays;
 
 import java.util.List;

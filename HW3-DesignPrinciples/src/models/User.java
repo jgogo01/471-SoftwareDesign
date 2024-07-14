@@ -1,5 +1,5 @@
 //Natdanai Pinaves 6510405482
-package models;
+package src.models;
 
 public class User {
     private String name;

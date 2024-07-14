@@ -1,7 +1,7 @@
 //Natdanai Pinaves 6510405482
-package services;
+package src.services;
 
-import models.User;
+import src.models.User;
 
 public class AgeValidator implements Validator {
     @Override
